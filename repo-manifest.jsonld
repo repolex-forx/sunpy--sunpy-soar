@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sunpy/sunpy-soar/commit/6932a91e9e547fdf5f365e8787c88ff0360f1d6f",
       "git:hexsha": "6932a91e9e547fdf5f365e8787c88ff0360f1d6f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sunpy/sunpy-soar/commit/24721122a90b6ce38db66f7ee949a66a8dcfae27",
