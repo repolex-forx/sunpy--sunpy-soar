@@ -1,0 +1,11 @@
+{
+  "org": "sunpy",
+  "repo": "sunpy-soar",
+  "versions": [
+    {
+      "commit": "6932a91e9e547fdf5f365e8787c88ff0360f1d6f",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:59:12.837611+00:00"
+    }
+  ]
+}
